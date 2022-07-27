@@ -1,9 +1,9 @@
 # Urlaub
 
-Brainstorming
+## Brainstorming
 
-Italien
-Roadtrip Westküste USA
-Thailand
-Mallorca
-…
+- Italien
+- Roadtrip Westküste USA
+- Thailand
+- Mallorca
+- …
