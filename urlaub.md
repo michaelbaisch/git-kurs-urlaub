@@ -11,6 +11,13 @@
 
 ## To-Do
 
+* Reisekrankenversicherung
+* Koffer
+* Spanisch lernen
+* Vorfreude!
+
+
+
 
 ## Flüge
 
