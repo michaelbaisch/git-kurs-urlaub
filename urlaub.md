@@ -28,6 +28,17 @@
 
 ## Unterkunft
 
+* **Hotel Palma**
+  * 05.09 - 12.09
+  * 140€ / Nacht
+* **Hotel Manacor**
+  * 12.09 - 19.09
+  * 120€ / Nacht
+
+Gesamt: **1820€**
+
+
+
 
 ## Verkehrsmittel
 
