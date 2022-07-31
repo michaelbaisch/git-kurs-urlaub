@@ -28,14 +28,14 @@
 
 ## Unterkunft
 
-* **Hotel Palma**
+* **Airbnb Palma**
   * 05.09 - 12.09
-  * 140€ / Nacht
-* **Hotel Manacor**
+  * 80€ / Nacht
+* **Airbnb Manacor**
   * 12.09 - 19.09
-  * 100€ / Nacht
+  * 90€ / Nacht
 
-Gesamt: **1680€**
+Gesamt: **1190€**
 
 
 
