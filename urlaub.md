@@ -33,9 +33,9 @@
   * 140€ / Nacht
 * **Hotel Manacor**
   * 12.09 - 19.09
-  * 120€ / Nacht
+  * 100€ / Nacht
 
-Gesamt: **1820€**
+Gesamt: **1680€**
 
 
 
