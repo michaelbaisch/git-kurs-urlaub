@@ -50,6 +50,11 @@ Gesamt: **1190€**
 
   ![](img/map_emt.jpg)
 
+### Fahrrad
+
+* https://www.mallorca.com/de/aktivitaeten/mallorca-fahrradverleih
+* https://radverleih-mallorca.com/anbieter/
+
 
 
 
