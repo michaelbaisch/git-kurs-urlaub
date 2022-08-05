@@ -6,6 +6,13 @@
 * 2 Wochen - 2 Orte
 * [Reisehinweise](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/spanien-node/spaniensicherheit/210534)
 * Steckdosen Check: Typ C und F, 230V/50Hz -> kein Adapter
+* [Notfallnumern](https://www.mallorca.org/notfallnummern.html)
+  * Allgemeiner Notruf: 112
+  * Notarzt: 061
+* Leitungswasser: trinkbar, evlt. leichter salziger- oder Chlorgeschmack
+  * [Ausnahme](https://www.mallorcamagazin.com/nachrichten/lokales/2022/02/20/98313/diesen-orten-auf-mallorca-sollte-leitungswasser-nicht-getrunken-werden.html): Santanyí, der Ort Santa Margalida sowie Costitx, Sineu, s'Horta und Manacor
+  * [Palma Wasser Qualität](https://www.emaya.es/ca/cicle-aigua/qualitat-aigua/graficasanalisis/)
+  * [Wasser Qualität Spanien (2020)](https://www.sanidad.gob.es/profesionales/saludPublica/docs/INFORME_AC_2020_ANEXO_I_ZonaAbastecimiento.pdf)
 
 
 
