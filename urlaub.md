@@ -1,4 +1,4 @@
-# Urlaub Mallorca
+# Vacaciones en Mallorca
 
 ![](mallorca-cover.jpg)
 <small>[unsplash](https://unsplash.com/photos/jJT1cnE4SZ8)</small>
@@ -19,7 +19,7 @@
 ## To-Do
 
 * Koffer kaufen
-* Spanisch lernen, wirklich!
+* ¡Aprender Español!
 * Vorfreude!
 
 
