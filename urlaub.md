@@ -74,11 +74,21 @@ Gesamt: **1190€**
 ## Reiseplan
 
 * **Palma**
-  * Stadt erkunden
-  * Catedral de Mallorca
-  * Alcudia Old Town und Cap de Formentor (Norden)
-  * Serra de Tramuntana (Westen)
-  * Strand
+  1. Tag: Anreise
+  2. Tag
+     * Stadt erkunden
+     * Catedral de Mallorca
+  3. Tag
+     * Alcudia Old Town und Cap de Formentor (Norden)
+  4. Tag
+     * Serra de Tramuntana (Westen)
+  5. Tag
+     * Strand
+  6. Tag
+     * Stadt erkunden
+  7. Tag
+     * Strand
+  8. Tag: Umzug
 * **Manacor**
   * Stadt erkunden
   * Fahrrad: Via Verde Manacor-Arta
