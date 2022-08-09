@@ -10,4 +10,6 @@
 | Soy de Alemania.           | Ich komme aus Deutschland. |
 | Tengo xx años.             | Ich bin xx Jahre alt.      |
 | Agua del grifo             | Leitungswasser             |
-|                            |                            |
+| ¿Podrías hablar más despacio, por favor? | Könntest du bitte langsamer sprechen? |
+| ¿Qué significa xx?                      | Was bedeutet xx?                      |
+| ¿Podrías repetirlo, por favor?          | Könntest du das bitte wiederholen?    |
