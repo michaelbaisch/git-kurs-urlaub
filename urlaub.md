@@ -90,8 +90,17 @@ Gesamt: **1190€**
      * Strand
   8. Tag: Umzug
 * **Manacor**
-  * Stadt erkunden
-  * Fahrrad: Via Verde Manacor-Arta
-  * Cuevas de Arta
-  * Cala Domingos
-  * Castell de Capdepera
+  1. Tag: Umzug
+  2. Tag
+     * Stadt erkunden
+  3. Tag
+     * Fahrrad: Via Verde Manacor-Arta
+  4. Tag
+     * Cuevas de Arta
+  5. Tag
+     * Cala Domingos
+  6. Tag
+     * Castell de Capdepera
+  7. Tag
+     * Erholung
+  8. Tag: Abreise
