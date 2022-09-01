@@ -13,3 +13,6 @@
 | ¿Podrías hablar más despacio, por favor? | Könntest du bitte langsamer sprechen? |
 | ¿Qué significa xx?                      | Was bedeutet xx?                      |
 | ¿Podrías repetirlo, por favor?          | Könntest du das bitte wiederholen?    |
+| Mi nombre es xx. | Mein Name ist xx. |
+| ¿Cómo te llamas? | Wie heißt du? |
+| Mucho gusto en conocerte.                | Schön, dich kennenzulernen.           |
