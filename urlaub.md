@@ -21,7 +21,6 @@
 * Koffer kaufen
 * ¡Aprender Español!
 * Vorfreude!
-* Packliste
 
 
 
