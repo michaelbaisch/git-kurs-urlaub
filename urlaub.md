@@ -78,6 +78,7 @@ Gesamt: **1190€**
   1. Tag: Anreise
   2. Tag
      * Stadt erkunden
+     * Einkaufen
      * Catedral de Mallorca
   3. Tag
      * Alcudia Old Town und Cap de Formentor (Norden)
@@ -87,6 +88,7 @@ Gesamt: **1190€**
      * Strand
   6. Tag
      * Stadt erkunden
+     * Tapas
   7. Tag
      * Strand
   8. Tag: Umzug
