@@ -77,20 +77,20 @@ Gesamt: **1190€**
 * **Palma**
   1. Tag: Anreise
   2. Tag
+     * Strand
+  3. Tag
      * Stadt erkunden
      * Einkaufen
      * Catedral de Mallorca
-  3. Tag
-     * Alcudia Old Town und Cap de Formentor (Norden)
   4. Tag
-     * Serra de Tramuntana (Westen)
+     * Alcudia Old Town und Cap de Formentor (Norden)
   5. Tag
-     * Strand
+     * Serra de Tramuntana (Westen)
   6. Tag
+     * Strand
+  7. Tag
      * Stadt erkunden
      * Tapas
-  7. Tag
-     * Strand
   8. Tag: Umzug
 * **Manacor**
   1. Tag: Umzug
