@@ -27,7 +27,16 @@
 
 ## Packliste
 
-
+* Kleidung
+* Schuhe
+* Rucksack
+* Reisedokumente
+* Ladekabel
+* Kamera
+* Sonnencreme
+* Zahnbürste
+* Handtücher
+* Duschgel
 
 
 
