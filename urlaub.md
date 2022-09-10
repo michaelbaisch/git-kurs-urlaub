@@ -21,7 +21,21 @@
 * Koffer kaufen
 * ¡Aprender Español!
 * Vorfreude!
-* Packliste
+
+
+
+## Packliste
+
+* Kleidung
+* Schuhe
+* Rucksack
+* Reisedokumente
+* Ladekabel
+* Kamera
+* Sonnencreme
+* Zahnbürste
+* Handtücher
+* Duschgel
 
 
 
