@@ -36,6 +36,9 @@
 * Zahnbürste
 * Handtücher
 * Duschgel
+* Haarspray
+* Powerbank
+* Badekleidung
 
 
 
